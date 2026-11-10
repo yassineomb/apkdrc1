@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240">
+  <rect x="12" y="12" width="216" height="216" rx="38" fill="#1b2a47"/>
+  <path d="M120 43l15 31 34 5-25 24 6 34-30-16-30 16 6-34-25-24 34-5z" fill="#f7d618"/>
+  <text x="120" y="183" fill="#fff" font-family="Arial,sans-serif" font-size="54" font-weight="700" text-anchor="middle">ANR</text>
+  <path d="M278 81h12l19 49V81h12v76h-12l-19-49v49h-12z" fill="#1b2a47"/>
+  <path d="M337 81h24c18 0 29 10 29 27 0 12-6 21-16 25l19 24h-16l-16-21h-11v21h-13zm24 43c10 0 16-6 16-16s-6-15-16-15h-11v31z" fill="#1b2a47"/>
+  <path d="M407 81h52v12h-39v19h35v12h-35v21h40v12h-53z" fill="#1b2a47"/>
+  <path d="M278 177h258" stroke="#1b2a47" stroke-width="2" opacity=".22"/>
+  <text x="278" y="207" fill="#52627a" font-family="Arial,sans-serif" font-size="19" letter-spacing="3">RENSEIGNEMENT</text>
+  <path d="M12 216h72" stroke="#007fff" stroke-width="8"/>
+  <path d="M84 216h72" stroke="#f7d618" stroke-width="8"/>
+  <path d="M156 216h72" stroke="#ce1021" stroke-width="8"/>
+</svg>
